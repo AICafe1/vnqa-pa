@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "./static/js/main.10612fb1.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.6932692b.js",
-    "static/css/2.5ee7db17.chunk.css": "./static/css/2.5ee7db17.chunk.css",
-    "static/js/2.b970428d.chunk.js": "./static/js/2.b970428d.chunk.js",
-    "index.html": "./index.html",
-    "precache-manifest.f3ff7aac360e237aec0a99312ee32351.js": "./precache-manifest.f3ff7aac360e237aec0a99312ee32351.js",
-    "service-worker.js": "./service-worker.js",
-    "static/js/2.b970428d.chunk.js.LICENSE": "./static/js/2.b970428d.chunk.js.LICENSE"
+    "main.js": "https://aicafe1.github.io/vnqa-pa/static/js/main.10612fb1.chunk.js",
+    "runtime-main.js": "https://aicafe1.github.io/vnqa-pa/static/js/runtime-main.180ecd70.js",
+    "static/css/2.5ee7db17.chunk.css": "https://aicafe1.github.io/vnqa-pa/static/css/2.5ee7db17.chunk.css",
+    "static/js/2.b970428d.chunk.js": "https://aicafe1.github.io/vnqa-pa/static/js/2.b970428d.chunk.js",
+    "index.html": "https://aicafe1.github.io/vnqa-pa/index.html",
+    "precache-manifest.86e3a6ae244a2f3b253cf68ac8223026.js": "https://aicafe1.github.io/vnqa-pa/precache-manifest.86e3a6ae244a2f3b253cf68ac8223026.js",
+    "service-worker.js": "https://aicafe1.github.io/vnqa-pa/service-worker.js",
+    "static/js/2.b970428d.chunk.js.LICENSE": "https://aicafe1.github.io/vnqa-pa/static/js/2.b970428d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6932692b.js",
+    "static/js/runtime-main.180ecd70.js",
     "static/css/2.5ee7db17.chunk.css",
     "static/js/2.b970428d.chunk.js",
     "static/js/main.10612fb1.chunk.js"
