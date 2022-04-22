@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://aicafe1.github.io/vnqa-pa/precache-manifest.86e3a6ae244a2f3b253cf68ac8223026.js"
+  "https://aicafe1.github.io/vnqa-pa/precache-manifest.8249aad526d4a3a96aa01bee7459b419.js"
 );
 
 self.addEventListener('message', (event) => {
